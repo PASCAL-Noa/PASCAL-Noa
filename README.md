@@ -40,4 +40,4 @@
 
 ### Let's connect
 > [Portfolio](https://www.noa-pascal.com) \
-> [LinkedIn](https://www.linkedin.com/in/noa-pascal-97ab67295/) \
+> [LinkedIn](https://www.linkedin.com/in/noa-pascal-97ab67295/) 
