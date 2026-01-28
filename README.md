@@ -1,3 +1,13 @@
+
+<h1 align="center">Hi 👋, I'm Noa PASCAL</h1>
+<h3 align="center">Game dev student | Low-level coding | C++ and game programming.</h3>
+
+- I'm currently working on **Game Engine**  
+- All of my projects are available at www.noa-pascal.com
+- How to reach me noa_pascal@icloud.com
+
+---
+
 <div style="display: flex; flex-direction: column; align-items: center; font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
   <!-- Stats GitHub et Langages -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
@@ -11,23 +21,8 @@
 
 ---
 
-# 👨‍💻 Noa Pascal | 3rd Year Bachelor Student at [Gaming Campus](https://gamingcampus.fr)
 
-- Hey 👋, I'm **Noa**, a passionate student in **Game Development and Software Engineering**.  
-- I specialize in **C++, DirectX12, Unity (C#), Python, Web Development**, and I also completed the **Piscine at École 42**.  
-- I love tackling challenging projects and exploring both **gameplay systems** and **low-level programming**.
-
----
-
-## 💡 What I'm currently working on:
-
-- 🚀 **Nova-Strike** — Space shooter in Unity with level system, rewards, statistics, and Firebase integration  
-- 🧠 Improving **DirectX12 projects** and learning advanced graphics programming  
-- 🔧 Practicing **C++**  
-
----
-
-## 🛠️ Tools & Technologies I Use:
+<h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" title="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" title="C"/>
@@ -43,7 +38,6 @@
 
 ---
 
-##  :handshake: Let's connect:
+### Let's connect
 > [Portfolio](https://www.noa-pascal.com) \
 > [LinkedIn](https://www.linkedin.com/in/noa-pascal-97ab67295/) \
-> [GitHubSchool](https://github.com/N-PASCAL)
