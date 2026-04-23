@@ -15,7 +15,7 @@
 
 ## Featured Projects
 
-### PHYSICS ENGINE
+### <a href="https://github.com/PASCAL-Noa/Physics-Engine-DX12"> PHYSICS ENGINE </a>
 
 A physics engine developed in two weeks by a team of three using C++ and DirectX 12.
 Third-year academic project focused on real-time simulation and engine architecture.
@@ -25,7 +25,7 @@ Third-year academic project focused on real-time simulation and engine architect
 
 ---
 
-### REBREAKER
+### <a href="https://github.com/PASCAL-Noa/Rebreaker" color: red> REBREAKER </a>
 
 A brick breaker game developed in one week by a team of three in C++.
 First implementation of shader programming.
@@ -36,7 +36,7 @@ Second-year academic project.
 
 ---
 
-### AUDIO ENGINE
+### <a href="https://github.com/PASCAL-Noa/AudioEngine"> AUDIO ENGINE </a>
 
 A real-time audio editor developed in one week by a team of three in C++.
 The audio pipeline is fully streamed with no local storage.
@@ -49,17 +49,17 @@ Built using ImGui for the interface and XAudio2 for audio processing.
 ## Languages & Tools
 
 <p align="center"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" width="40" height="40"/> </p> <p align="center"> 
-  <img src="https://img.shields.io/badge/DirectX_12-107C10?style=for-the-badge&logo=directx&logoColor=white" /> </p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" width="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" width="40" /> </p> 
+<p align="center"> <img src="https://img.shields.io/badge/DirectX_12-107C10?style=for-the-badge&logo=directx&logoColor=white" /> </p>
 
 ---
 
